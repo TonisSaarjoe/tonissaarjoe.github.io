@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Tõnise väike leht</title>
@@ -64,7 +64,7 @@
     </table>
 
     <div class="pic">
-        <img src="https://i.ibb.co/zF573W8/gjjszu-1.png" alt="gjjszu-1" border="0"></a>
+        <img src="https://i.ibb.co/zF573W8/gjjszu-1.png" alt="gjjszu-1" border="0">
     </div>
 
 </div>
